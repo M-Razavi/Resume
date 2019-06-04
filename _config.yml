@@ -1,24 +1,26 @@
 # Site
-repository: sproogen/resume-theme
+repository: M-Razavi/Resume
 # favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Mahdi Razavi
+title: Software Enginieer
+email: Razavi.Dev@Gmail.com
+#phone: +989133362873
+website: Mahdi.Razavi.net
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+# twitter_username: facespics
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+# instagram_username: chillwildlife
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
+github_username:  M-Razavi
+linkedin_username: mahdirazavi
+# xing_username: Mahdi_Razavi
 
 # About Section
 # about_title: About Me
