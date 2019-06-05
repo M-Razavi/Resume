@@ -1,12 +1,11 @@
 # Site
-repository: M-Razavi/Resume
+repository: m-razavi/resume
 # favicon: images/favicon.ico
 
 # Personal info
 name: Mahdi Razavi
-title: Software Enginieer
+title: Software Engineer
 email: Razavi.Dev@Gmail.com
-phone: +989133362873
 website: Mahdi.Razavi.net
 
 # Social links
@@ -20,15 +19,16 @@ website: Mahdi.Razavi.net
 # googleplus_username: +jekyll
 github_username:  m-razavi
 linkedin_username: mahdirazavi
-xing_username: mahdi_razavi
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile2.jpg
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
   Software Engineer with 7 years in software development based on the platforms Windows and Linux and expertise in development and operations. 
   Expert in object-oriented design and analysis through intuitive problem-solving and creativity. 
   Successfully maintains professionalism and personal commitment with excellent communication and people skills with the ability to train, motivate and supervise a team. 
+  
+    I am most skilled in: <mark>Java</mark>, <mark>Spring Boot</mark>, <mark>Linux</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -40,13 +40,17 @@ about_content: | # this will include new lines to allow paragraphs  I am most sk
 # educaton_title: Education
 
 # More Section
-# more_title: A Little More About Me
+more_title: A Little More 
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  Some Tutorials and Publications:
+   - [Medium](https://medium.com/@m.razavi777)
+   - [Virgool](https://virgool.io/@m-razavi)
+   
+  Alongside my interests in software engineering some of my other interests and hobbies are:
+   - Playing Football
+   - Mountain climbing & Canyoning
+   - Reading novels
+   - Watching movie
 
 # Footer
 footer_show_references: true

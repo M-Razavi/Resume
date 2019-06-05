@@ -1,10 +1,25 @@
-- layout: left
-  name: Harvard University
-  dates: 2010 - 2013
-  qualification: BSc Computer Science
+﻿- layout: left
+  name: SheikhBahaee University
+  dates: 2017 - 2019
+  qualification: MS Computer Software Engineering
   quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+    Sheikh Bahaei University (Persian: شیخ بهایی), was established by virtue of the 1994 law of non-governmental and non-profitable universities and institutions through the efforts of ten professors from the University of Isfahan
   description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+    I've learnt new concept and academic aspect of cutting edge technology such as Cloud Computing, AI, Complicated Dynamic Networks, Distributed Operating Systems...
 
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+- layout: left
+  name: Azad University
+  dates: 2004 - 2008
+  qualification: BSc Computer Software Engineering
+  quote: >
+    The Islamic Azad University (IAU) (Persian: دانشگاه آزاد اسلامي), commonly referred to as Azad University is the world's third largest private university system based in Iran.
+  description: | # this will include new lines to allow paragraphs
+    During my time at Azad university I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I spent a lot of my free time in Robotic club.
+
+    2nd place in national robotic competition in Qazvin University, 2006 
+
+    Secretary of the Computer Science Association of the University
+
+    Teacher assistant for programing, Database, Operating System courses 
+
+
