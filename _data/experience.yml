@@ -1,5 +1,4 @@
-- layout: left
-  company: WebbFontaine
+- company: WebbFontaine
   link: https://webbfontaine.com/
   job_title: Software Engineer
   dates: Sep 2019 - Present
@@ -12,8 +11,7 @@
 
     Developing the notification system similar to Amazon Simple Notification Service to  send notifications in different formats from all Grails, Sprint applications, and third parties like KeyCloak.
 
-- layout: left
-  company: Rayan Ham Afza
+- company: Rayan Ham Afza
   link: http://www.rayanhamafza.com/
   job_title: Java Backend Developer and Team leader
   dates: Agust 2018 - Sep 2019

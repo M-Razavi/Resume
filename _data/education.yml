@@ -1,5 +1,4 @@
-﻿- layout: left
-  name: SheikhBahaee University
+﻿- name: SheikhBahaee University
   dates: 2017 - 2019
   qualification: MS Computer Software Engineering
   quote: >
@@ -7,8 +6,7 @@
   description: | # this will include new lines to allow paragraphs
     I've learnt new concept and academic aspect of cutting edge technology such as Cloud Computing, AI, Complicated Dynamic Networks, Distributed Operating Systems...
 
-- layout: left
-  name: Azad University
+- name: Azad University
   dates: 2004 - 2008
   qualification: BSc Computer Software Engineering
   quote: >
@@ -16,10 +14,10 @@
   description: | # this will include new lines to allow paragraphs
     During my time at Azad university I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I spent a lot of my free time in Robotic club.
 
-    2nd place in national robotic competition in Qazvin University, 2006 
+    2nd place in national robotic competition in Qazvin University, 2006
 
     Secretary of the Computer Science Association of the University
 
-    Teacher assistant for programing, Database, Operating System courses 
+    Teacher assistant for programing, Database, Operating System courses
 
 
