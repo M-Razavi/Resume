@@ -1,4 +1,5 @@
-﻿- name: SheikhBahaee University
+﻿- layout: left
+  name: SheikhBahaee University
   dates: 2017 - 2019
   qualification: MS Computer Software Engineering
   quote: >
@@ -6,7 +7,8 @@
   description: | # this will include new lines to allow paragraphs
     I've learnt new concept and academic aspect of cutting edge technology such as Cloud Computing, AI, Complicated Dynamic Networks, Distributed Operating Systems...
 
-- name: Azad University
+- layout: left
+  name: Azad University
   dates: 2004 - 2008
   qualification: BSc Computer Software Engineering
   quote: >
@@ -19,5 +21,3 @@
     Secretary of the Computer Science Association of the University
 
     Teacher assistant for programing, Database, Operating System courses
-
-
